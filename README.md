@@ -38,7 +38,7 @@ A simple ASP.NET Core Web API that performs CRUD (Create, Read, Update, Delete) 
 
 4. Run the application using IIS Express or Kestrel.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repository and submit pull requests.
 Suggestions and improvements are always welcome!
 
